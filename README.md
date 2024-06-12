@@ -9,7 +9,9 @@ Teammates:
 
 ## Tools & Technologies Used
 
-Arm Cortex M0+ assembly language
+MSP430G2553 microcontroller board
 
-Keil µVision IDE
+MSP430 assembly language
+
+Code Composer Studio
 
